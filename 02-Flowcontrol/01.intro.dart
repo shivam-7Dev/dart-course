@@ -18,3 +18,11 @@
  * Exection Handling => handling runtime errors
  * try, catch, finally , throw
  */
+
+/**
+ * For loop structure
+ * for(init;cond;incremet/decremtn){
+ * // incement and decrement doesnt mean you nca only add or subtract
+ * you can essestialy do any operaitons
+ * }
+ */
